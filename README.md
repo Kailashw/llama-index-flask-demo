@@ -19,7 +19,7 @@ pip install -r requirements.txt
 .................. Getting Ready with DATA .................................
 
 - place your files under data folder in the root.
-- each data should have two files. - {name}\_data.json and {name}\_scehma.json
+- each data should have two files. - {model}\_data.json and {model}\_scehma.json
 
 ...................................................
 
