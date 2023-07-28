@@ -41,3 +41,5 @@ curl --location 'http://127.0.0.1:8080/search-json' \
 --form 'search="list of top 5 deals closed on 2023-09-05"' \
 --form 'model="deals"'
 ```
+
+<b> Note : >/b> .vscode file added for debugging support.
