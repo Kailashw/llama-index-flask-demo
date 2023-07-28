@@ -42,4 +42,4 @@ curl --location 'http://127.0.0.1:8080/search-json' \
 --form 'model="deals"'
 ```
 
-<b> Note : >/b> .vscode file added for debugging support.
+<b> Note : </b> .vscode file added for debugging support.
