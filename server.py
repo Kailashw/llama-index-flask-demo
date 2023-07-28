@@ -14,7 +14,7 @@ app = Flask(__name__)
 # Define the home page route
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return "Hello Welcome to llma index flask app"
 
 @app.route('/search', methods=['POST'])
 def search() -> (str | None):
